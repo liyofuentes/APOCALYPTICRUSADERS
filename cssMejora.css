@@ -1,0 +1,39 @@
+html{
+    background-color:#53d47e;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #tituloMejora{
+    height: 100px;
+	  background-color:#3dcf9f;
+	  border-style: outset;
+	  box-shadow: 0 0 10px black;
+  }
+
+  #equipo{
+    margin-top: 10px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+
+ #equipo h1{
+    
+    color: red;
+    margin:5px;
+}
+
+#equipo p{
+    margin: 2%;
+}
+
+#talentos{
+    margin-top: 10px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+
+#talentos h1{
+    
+    color: red;
+    margin:5px;
+}
