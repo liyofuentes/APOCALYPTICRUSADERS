@@ -1,0 +1,105 @@
+html{
+    background-color:#53d47e;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #tituloHabilidades{
+    height: 100px;
+	  background-color:#3dcf9f;
+	  border-style: outset;
+	  box-shadow: 0 0 10px black;
+  }
+
+  #lanza{
+      margin-top: 10px;
+      border-style: solid;
+      border-color: blueviolet;
+  }
+
+  #lanza h1{
+      
+      color: red;
+      margin:5px;
+  }
+
+  #lanza img{
+      float: right;
+      width: 190px;
+	  height: 110px;
+      margin-right: 20px;
+      margin-top: 30px;
+  }
+
+ #arco{
+    margin-top: 10px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+
+#arco h1{
+    
+    color: red;
+    margin:5px;
+}
+
+#arco img{
+    float: right;
+    width: 190px;
+    height: 110px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+#espada{
+    margin-top: 10px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+
+#espada h1{
+    
+    color: red;
+    margin:5px;
+}
+
+#espada img{
+    float: right;
+    width: 190px;
+    height: 110px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+#baculo{
+    margin-top: 10px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+
+#baculo h1{
+    
+    color: red;
+    margin:5px;
+}
+
+#baculo img{
+    float: right;
+    width: 190px;
+    height: 110px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+#general{
+    margin-top: 10px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+
+#general h1{
+    
+    color: red;
+    margin:5px;
+    margin-right: 170px;
+}
+
