@@ -1,0 +1,197 @@
+html{
+    background-color:#53d47e;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #tituloMonstruos{
+    height: 100px;
+	  background-color:#3dcf9f;
+	  border-style: outset;
+	  box-shadow: 0 0 10px black;
+  }
+
+  #Eamarillo{
+      margin-top: 10px;
+      border-style: solid;
+      border-color: blueviolet;
+  }
+
+  #Esqueleto Amarillo h1{
+      
+      color: red;
+      margin:5px;
+  }
+
+  #Eamarillo img{
+      float: right;
+      width: 190px;
+	  height: 110px;
+      margin-right: 20px;
+      margin-top: 30px;
+  }
+
+ #Eblanco{
+    margin-top: 10px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+
+#Esqueleto Blanco h1{
+    
+    color: red;
+    margin:5px;
+}
+
+#Eblanco img{
+    float: right;
+    width: 190px;
+    height: 110px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+#Erojo{
+    margin-top: 10px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+
+#Esqueleto Rojo h1{
+    
+    color: red;
+    margin:5px;
+}
+
+#Erojo img{
+    float: right;
+    width: 190px;
+    height: 110px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+#Everde{
+    margin-top: 10px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+
+#Esqueleto verde h1{
+    
+    color: red;
+    margin:5px;
+}
+
+#Everde img{
+    float: right;
+    width: 190px;
+    height: 110px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+#Gazul{
+    margin-top: 10px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+
+#Golem Azul h1{
+    
+    color: red;
+    margin:5px;
+    margin-right: 170px;
+}
+
+#Gazul img{
+    float: right;
+    width: 190px;
+    height: 110px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+#Gblanco{
+    margin-top: 10px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+
+#Golem Blanco h1{
+    
+    color: red;
+    margin:5px;
+    margin-right: 170px;
+}
+
+#Gblanco img{
+    float: right;
+    width: 190px;
+    height: 110px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+#Mrojo{
+    margin-top: 10px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+
+#Murciégalo Rojo h1{
+    
+    color: red;
+    margin:5px;
+    margin-right: 170px;
+}
+
+#Mrojo img{
+    float: right;
+    width: 190px;
+    height: 110px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+#Mverde{
+    margin-top: 10px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+
+#Murciégalo Verde h1{
+    
+    color: red;
+    margin:5px;
+    margin-right: 170px;
+}
+
+#Mverde img{
+    float: right;
+    width: 190px;
+    height: 110px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+
+#Ser{
+    margin-top: 10px;
+    border-style: solid;
+    border-color: blueviolet;
+}
+
+#Serpiente Kawai h1{
+    
+    color: red;
+    margin:5px;
+    margin-right: 170px;
+}
+
+#Ser img{
+    float: right;
+    width: 190px;
+    height: 110px;
+    margin-right: 20px;
+    margin-top: 30px;
+}
+

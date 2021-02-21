@@ -1,0 +1,15 @@
+  html{
+    background-color:#53d47e;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  #tituloMapas{
+    height: 100px;
+	  background-color:#3dcf9f;
+	  border-style: outset;
+	  box-shadow: 0 0 10px black;
+  }
+
+  #resumen{
+    padding-left: 120px;
+  }
